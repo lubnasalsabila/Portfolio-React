@@ -1,0 +1,212 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        },
+
+        "in": {
+            "title": "Penghargaan",
+            "title_menu": "Pencapaian",
+            "title_long_prefix": "Berikut adalah",
+            "title_long": "**Pencapaian** saya"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" },
+                "in": { "title": "Sertifikasi" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/dicoding.jpeg"
+                    },
+                    "dates": {
+                        "start": "08/06/2023",
+                        "end": "08/06/2026"
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1NOGSRf69qylBy-d5X_Bs9qkAGr9swnFz?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Dicoding**",
+                            "text": "Software Developer Certificate"
+                        },
+                        "in": {
+                            "text": "Sertifikat Pengembang Perangkat Lunak"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/myskill.png"
+                    },
+                    "dates": {
+                        "start": "04/21/2025",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1yb9eJc_jjqoPzbnm55oLiR41iPT2OO84?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**MySkill**",
+                            "text": "Certificate Figma for UI/UX"
+                        },
+                        "in": {
+                            "text": "Sertifikat Figma untuk UI/UX"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/daffa.png"
+                    },
+                    "dates": {
+                        "start": "05/05/2022",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1aT9ZfA6zqpPlPVi-NYwwAiw3smB03LZJ?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Daffa Script**",
+                            "text": "Seminar and mini bootcamp certificate"
+                        },
+                        "in": {
+                            "text": "Sertifikat seminar dan mini bootcamp"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/cyber.jpeg"
+                    },
+                    "dates": {
+                        "start": "11/06/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1he3BkUVHj8pACSXahX04XkvOjSkf-uRY?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Cyberlabs**",
+                            "text": "Backend Development with Javascript Framework"
+                        },
+                        "in": {
+                            "text": "Pengembangan Backend dengan Framework Javascript"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/wantek.jpeg"
+                    },
+                    "dates": {
+                        "start": "10/30/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1vCP3KJ79NpdTo2qSKTDDjhtWw2cZEWIb?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Wanteknologi**",
+                            "text": "Frontend Development with The Progresive Javascript Framework Vue.js"
+                        },
+                        "in": {
+                            "text": "Pengembangan Frontend dengan Framework Javascript Progresif Vue.js"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/unity.png"
+                    },
+                    "dates": {
+                        "start": "11/20/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1GvFtZ_3eQ7_BlSGQdFOyFeHe7IUv76V4?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Unity**",
+                            "text": "Unity Essentials Pathway"
+                        },
+                        "in": {
+                            "text": "Jalur Dasar Unity"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/igdx.png"
+                    },
+                    "dates": {
+                        "start": "12/18/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/14CYGEGbtUos1fiNQJubeLYi3lmwNjHDW?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**IGDX**",
+                            "text": "Career Guidance For Aspiring Game Developer"
+                        },
+                        "in": {
+                            "text": "Bimbingan Karier untuk Calon Pengembang Game"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" },
+                "in": { "title": "Penghargaan" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "02/04/2025",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**1st Place** – Mini Bootcamp Challenge",
+                            "info": "Daffascript",
+                            "text": "My team successfully achieved first place in the Mini Bootcamp Challenge: Career in UI/UX from Zero to Hero, hosted by Daffascript"
+                        },
+                        "in": {
+                            "title": "**Juara 1** – Mini Bootcamp Challenge",
+                            "info": "Daffascript",
+                            "text": "kelompok saya berhasil memenangkan posisi juara 1 pada mini bootcamp challenge: Berkarir di UI/UX from Zero to Hero yang diselenggarakan oleh Daffascript."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

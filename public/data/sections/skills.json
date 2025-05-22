@@ -1,0 +1,349 @@
+{
+    "locales": {
+        "en": {
+            "title": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My **Skill Set**"
+        },
+
+        "in": {
+            "title": "Keterampilan",
+            "title_long_prefix": "Eksplor",
+            "title_long": "**Keterampilan** Saya"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "capabilities",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-handshake",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Team **collaboration**",
+                            "text": "Work well with others to achieve great results!"
+                        },
+                        "in": {
+                            "title": "**Kolaborasi** tim",
+                            "text": "Bekerja sama dengan baik dengan orang lain untuk mencapai hasil yang baik!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-table-columns",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**UI** design",
+                            "text": "Turn great ideas into reality"
+                        },
+                        "in": {
+                            "title": "Desain **UI**",
+                            "text": "Mengubah ide-ide hebat menjadi kenyataan"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** design",
+                            "text": "Design databases that power your ideas"
+                        },
+                        "in": {
+                            "title": "Desain **database**",
+                            "text": "Merancang basis data yang mendukung ide-idemu"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-screwdriver-wrench",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Problem **solving**",
+                            "text": "Solving problems with logic and creativity"
+                        },
+                        "in": {
+                            "title": "**Pemecahan** masalah",
+                            "text": "Menyelesaikan masalah dengan logika dan kreativitas"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-magnifying-glass",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Trend** analysis",
+                            "text": "Exploring social media to uncover the latest viral trends"
+                        },
+                        "in": {
+                            "title": "Menganalisis **Tren**",
+                            "text": "Menjelajahi media sosial untuk mengungkap tren viral terbaru"
+                        }
+                    }
+                }
+            ]
+
+        },
+
+        {
+            "id": "backend_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Backend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-laravel",
+                        "faColors": {"bg": "#C5172E", "fill": "#EEE"}
+                    },
+                    "value": 65,
+                    "dates": {
+                        "start": "10/20/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Laravel",
+                            "info": null
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "03/15/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-php",
+                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "10/18/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "info": null
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "10/21/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "front_end_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Frontend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html5",
+                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "09/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-css3",
+                        "faColors": {"bg": "#1572B6", "fill": "#EEE"}
+                    },
+                    "value": 60,
+                    "dates": {
+                        "start": "09/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CSS3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
+                    },
+                    "value": 40,
+                    "dates": {
+                        "start": "03/10/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
+                    },
+                    "value": 35,
+                    "dates": {
+                        "start": "08/20/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "info": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-bootstrap",
+                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "05/10/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-figma",
+                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
+                    },
+                    "value": 45,
+                    "dates": {
+                        "start": "08/10/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Figma",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": { "title": "Languages" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/flags/en.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "info": "Good English skills in both speaking, listening and writing.",
+                            "tags": ["Basic"]
+                        },
+                        "in": {
+                            "title": "Inggris",
+                            "info": "Kemampuan bahasa Inggris yang baik dalam berbicara, mendengarkan, dan menulis.",
+                            "tags": ["Dasar"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

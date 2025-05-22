@@ -1,0 +1,77 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "in": {
+            "title": "Pengalaman",
+            "title_long_prefix": "Ringkasan dari",
+            "title_long": "Pengalaman **Kerja Saya**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/ksn.jpeg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/15/2024",
+                        "end": "06/21/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Frontend** Developer",
+                            "info": "CV Kreasi Sawala Nusantara",
+                            "text": "Developed responsive user interfaces for YAN Invitation using Laravel and Bootstrap, optimizing functionality and interface to enhance user experience and performance.",
+                            "tags": ["HTML", "CSS", "JavaScript", "Laravel", "Bootstrap"]
+                        },
+                        "in": {
+                            "title": "**Frontend** Developer",
+                            "info": "CV Kreasi Sawala Nusantara",
+                            "text": "Mengembangkan antarmuka pengguna responsif untuk YAN Invitation menggunakan Laravel dan Bootstrap, mengoptimalkan fungsionalitas dan antarmuka untuk meningkatkan pengalaman dan kinerja pengguna.",
+                            "tags": ["HTML", "CSS", "JavaScript", "Laravel", "Bootstrap"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/build.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/11/2024",
+                        "end": "11/25/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Social Media** Intern",
+                            "info": "company name withheld",
+                            "text": "Managed social media and submitted regular work reports.",
+                            "tags": ["Instagram", "Youtube", "Tiktok"]
+                        },
+                        "in": {
+                            "title": "**Social Media** Intern",
+                            "info": "nama perusahaan dirahasiakan",
+                            "text": "mengelola media sosial dan menyerahkan laporan kerja rutin.",
+                            "tags": ["Instagram", "Youtube", "Tiktok"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

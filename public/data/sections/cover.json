@@ -1,0 +1,214 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Lubna Salsa!**"
+        },
+
+        "in": {
+            "title": "Selamat Datang!",
+            "title_menu": "Tentang saya",
+            "title_long_prefix": "Halo...",
+            "title_long": "Saya **Lubna Salsa!**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "in": {}
+            },
+
+            "items": [
+                {
+                    "value": "Bogor – Indonesia",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "lubnasalsabilaa@gmail.com",
+                    "links": [
+                        {"href": "mailto:lubnasalsabilaa@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@lubnasalsabila",
+                    "links": [
+                        {"href": "https://github.com/lubnasalsabila"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "in": {"title": "**Sedikit** tentang saya..."}
+            },
+
+            "items": [
+                {
+                    "locales": {
+                        "en": {"text": "<p>I am a graduate of SMK Wikrama Bogor with a specialization in Software and Game Development (PPLG). I am an enthusiastic and friendly individual who can work both independently and in a team. I have good communication skills, confidence in expressing ideas, a strong interest in trying and learning new things. </p>"},
+                        "in": {"text": "<p>Saya lulusan SMK Wikrama Bogor dengan jurusan Rekayasa Perangkat Lunak dan Game (PPLG). Saya adalah pribadi yang antusias dan ramah, mampu bekerja secara mandiri maupun dalam tim. Saya memiliki kemampuan komunikasi yang baik, percaya diri dalam menyampaikan ide, serta minat yang kuat untuk mencoba dan mempelajari hal-hal baru. </p>"}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "in": { "title": "Minat **pribadi**" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-book-open",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Fiction Reading",
+                            "info": "Enjoying imaginative stories to relax and spark creativity."
+                        },
+                        "in": {
+                            "title": "Membaca Fiksi",
+                            "info": "Menikmati cerita imajinatif untuk bersantai dan memicu kreativitas."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pen-ruler",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UI/UX Design",
+                            "info": "Exploring user interface design and usability principles."
+                        },
+                        "in": {
+                            "title": "Desain UI/UX",
+                            "info": "Mengeksplorasi desain antarmuka pengguna dan prinsip usability."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Frontend Dev",
+                            "info": "Building responsive and interactive web interfaces."
+                        },
+                        "in": {
+                            "title": "Frontend Dev",
+                            "info": "Membangun antarmuka web yang responsif dan interaktif."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-laptop-code",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Dev",
+                            "info": "Developing full-stack web applications and managing databases."
+                        },
+                        "in": {
+                            "title": "Web Dev",
+                            "info": "Mengembangkan aplikasi web full-stack dan mengelola database."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pen-nib",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Design Tools",
+                            "info": "Practicing with Figma and other interface design tools."
+                        },
+                        "in": {
+                            "title": "Alat Desain",
+                            "info": "Berlatih menggunakan Figma dan alat desain antarmuka lainnya."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-wand-magic-sparkles",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Creative Coding",
+                            "info": "Experimenting with animations, transitions, and micro-interactions."
+                        },
+                        "in": {
+                            "title": "Pemrograman Kreatif",
+                            "info": "Bereksperimen dengan animasi, transisi, dan interaksi mikro."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

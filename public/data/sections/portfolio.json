@@ -1,0 +1,256 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+
+        "in": {
+            "title": "Portofolio",
+            "title_long_prefix": "Silahkan lihat",
+            "title_long": "**Portofolio** Saya"
+        }
+    }, 
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+
+            "items": [
+                {
+                    "categoryId": "utilities",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lubnasalsabila/ukk-lubna"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Cashier project - laravel",
+                            "text": "This cashier application, built with Laravel and Bootstrap, has two roles: admin and cashier. Admins manage products, users, and reports, while cashiers handle transactions. The system is responsive and easy to use.",
+                            "tags": ["Laravel", "MySQL", "Bootstrap", "Blade template"]
+                        },
+                        "in": {
+                            "title": "Proyek kasir - laravel",
+                            "text": "Aplikasi kasir berbasis Laravel dan Bootstrap ini memiliki dua peran, admin dan kasir. Admin mengelola produk, pengguna, dan laporan, sementara kasir mencatat transaksi. Sistem ini responsif dan mudah digunakan.",
+                            "tags": ["Laravel", "MySQL", "Bootstrap", "Blade template"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lubnasalsabila/ProjekKeterlambatan"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Project Delay",
+                            "text": "This system digitally records student tardiness. The admin manages all data, while rayon supervisors can only view tardiness records of students within their assigned rayon.",
+                            "tags": ["Laravel", "MySQL", "Bootstrap"]
+                        },
+                        "in": {
+                            "title": "Proyek Keterlambatan",
+                            "text": "Sistem ini mencatat keterlambatan siswa secara digital. Admin mengelola seluruh data, sementara pembimbing rayon hanya dapat melihat keterlambatan siswa di rayonnya.",
+                            "tags": ["Laravel", "MySQL", "Bootstrap"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lubnasalsabila/peminjaman-inventaris"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "inventory lending",
+                            "text": "A web-based inventory loan system using the MVC method, built with PHP and CSS to simplify management and recording of loans.",
+                            "tags": ["PHP", "CSS", "MVC"]
+                        },
+                        "in": {
+                            "title": "Peminjaman Inventaris",
+                            "text": "Sistem peminjaman inventaris berbasis web dengan metode MVC, dibuat menggunakan PHP dan CSS untuk mempermudah pengelolaan dan pencatatan peminjaman.",
+                            "tags": ["PHP", "CSS", "MVC"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lubnasalsabila/projek-masjidWK"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Mosque Project",
+                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
+                            "tags": ["PHP", "Bootstrap"]
+                        },
+                        "in": {
+                            "title": "Proyek Masjid",
+                            "text": "Membuat website masjid menggunakan php dan bootstrap",
+                            "tags": ["PHP", "Bootstrap"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lubnasalsabila/TaskofFlutterIDS"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Cashier project - Flutter",
+                            "text": "Trying to create a cashier website using Flutter, but only completed the item selection part.",
+                            "tags": ["Flutter"]
+                        },
+                        "in": {
+                            "title": "Proyek kasir - Flutter",
+                            "text": "Mencoba membuat website kasir menggunakan flutter yang hanya selesai pada memilih barang",
+                            "tags": ["Flutter"]
+                        }
+                    }
+                },
+                
+                {
+                    "categoryId": "apps",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-figma", "href": "https://www.figma.com/design/XixobgwY1FSPqN3wsMJvJh/Latihan-UKK?t=oclIhSOr8p6IfjKK-1"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "UI Design - UKK Practice",
+                            "text": "Create an UI design in figma for the cashier website which will later be used in the UKK or Skills Competency Test",
+                            "tags": ["Figma"]
+                        },
+                        "in": {
+                            "title": "Desain UI - Latihan UKK",
+                            "text": "Membuat desain UI di figma untuk website kasir yang nantinya akan digunakan pada UKK atau Uji Kompetensi Keahlian",
+                            "tags": ["Figma"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-figma", "href": "https://www.figma.com/design/nWnp2tQvgO7WkZAoQ91Hgq/Project-joki-1?t=oclIhSOr8p6IfjKK-1"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "School project",
+                            "text": "This project is my friend's Project Work assignment, for which I was asked to help redesign the user interface (UI) using Figma.",
+                            "tags": ["Figma"]
+                        },
+                        "in": {
+                            "title": "Proyek sekolah ",
+                            "text": "Proyek ini merupakan bagian dari tugas Project Work milik teman saya. Saya diminta untuk membantu dalam meredesain antarmuka pengguna (UI) menggunakan Figma.",
+                            "tags": ["Figma"]
+                        }
+                    }
+                },
+                
+                {
+                    "categoryId": "apps",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-figma", "href": "https://www.figma.com/design/eGSyi0gpKfdTxL3sRLWR4C/Untitled?node-id=0-1&t=GV3RrGvPKk5wzDBW-1"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Student Attendance Dashboard Interface Design",
+                            "text": "Figma-based UI design project created with the team (Elsa & Hana) during the mini bootcamp. Focused on creating a student dashboard to view attendance data visually and user-friendly.",
+                            "tags": ["Figma"]
+                        },
+                        "in": {
+                            "title": "Desain Antarmuka Dashboard Kehadiran Siswa",
+                            "text": "Proyek desain UI berbasis Figma yang dibuat bersama tim (Elsa & Hana) selama mini bootcamp. Fokus pada pembuatan dashboard siswa untuk melihat data kehadiran secara visual dan user-friendly.",
+                            "tags": ["Figma"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-figma", "href": "https://www.figma.com/design/w61p5BG397zVWRgGSshN5Q/PAYROLL?node-id=0-1&t=kIn3qfxOJibKtwa6-1"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "UI Design - Ola Manage",
+                            "text": "A UI design project collaboratively developed with Bergisch and Naura. The focus was on designing user interfaces for four different user roles: superadmin, manager, employee, and job applicant.",
+                            "tags": ["Figma"]
+                        },
+                        "in": {
+                            "title": "Desain UI - Ola Manage",  
+                            "text": "Proyek desain UI yang dikerjakan secara kolaboratif dengan Bergisch dan Naura. Fokus desain meliputi antarmuka pengguna untuk empat role berbeda: superadmin, manajer, karyawan, dan calon karyawan.",
+                            "tags": ["Figma"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

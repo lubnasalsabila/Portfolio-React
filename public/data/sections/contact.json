@@ -1,0 +1,104 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+
+        "in": {
+            "title": "Kontak",
+            "title_long_prefix": "Jangan ragu untuk",
+            "title_long": "**Hubungi** saya"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {"title": "Send me a **message**"},
+                "in": {"title": "Kirimkan saya **pesan**"}
+            },
+
+            "items": null
+        },
+
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Or if you **prefer**..."},
+                "in": {"title": "Atau jika anda **lebih suka**..."}
+            },
+
+            "items": [
+                {
+                    "value": "+6285773867561",
+                    "links": [
+                        {"href": "wa.me/085773867561"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Phone"},
+                        "in": {"title": "Telepon"}
+                    }
+                },
+
+                {
+                    "value": "lubnasalsabilaa@gmail.com",
+                    "links": [
+                        {"href": "mailto:lubnasalsabilaa@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Gmail"}
+                    }
+                },
+
+                {
+                    "value": "@Lubna Salsa Bila",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/lubna-salsa-bila-8015882a2/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Linkedin"}
+                    }
+                },
+
+                {
+                    "value": "@lubnaslla62",
+                    "links": [
+                        {"href": "https://www.instagram.com/lubnaslla62/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-instagram",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Instagram"}
+                    }
+                }
+            ]
+        }
+    ]
+}
