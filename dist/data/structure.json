@@ -43,13 +43,6 @@
         },
 
         {
-            "id": "updates",
-            "categoryId": "more",
-            "jsonPath": "/data/sections/updates.json",
-            "faIcon": "fa-solid fa-rss"
-        },
-
-        {
             "id": "contact",
             "categoryId": "more",
             "jsonPath": "/data/sections/contact.json",
@@ -63,7 +56,7 @@
             "faIcon": "fa-solid fa-home",
             "locales": {
                 "en": {"title": "Home"},
-                "in": {"title": "Inicio"}
+                "es": {"title": "Inicio"}
             }
         },
 
@@ -72,7 +65,7 @@
             "faIcon": "fa-solid fa-clock",
             "locales": {
                 "en": {"title": "History"},
-                "in": {"title": "Riwayat"}
+                "es": {"title": "Trayectoria"}
             }
         },
 
@@ -81,7 +74,7 @@
             "faIcon": "fa-solid fa-images",
             "locales": {
                 "en": {"title": "Showcase"},
-                "in": {"title": "Vitrina"}
+                "es": {"title": "Vitrina"}
             }
         },
 
@@ -90,7 +83,7 @@
             "faIcon": "fa-solid fa-plus",
             "locales": {
                 "en": {"title": "More"},
-                "in": {"title": "Lagi"}
+                "es": {"title": "Más"}
             }
         }
     ]

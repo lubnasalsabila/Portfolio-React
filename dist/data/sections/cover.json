@@ -76,11 +76,6 @@
 
             "items": [
                 {
-                    "icon": {
-                        "img": "images/svg/logo.svg",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
                     "locales": {
                         "en": {"text": "<p>I am a graduate of SMK Wikrama Bogor with a specialization in Software and Game Development (PPLG). I am an enthusiastic and friendly individual who can work both independently and in a team. I have good communication skills, confidence in expressing ideas, a strong interest in trying and learning new things. </p>"},
                         "in": {"text": "<p>Saya lulusan SMK Wikrama Bogor dengan jurusan Rekayasa Perangkat Lunak dan Game (PPLG). Saya adalah pribadi yang antusias dan ramah, mampu bekerja secara mandiri maupun dalam tim. Saya memiliki kemampuan komunikasi yang baik, percaya diri dalam menyampaikan ide, serta minat yang kuat untuk mencoba dan mempelajari hal-hal baru. </p>"}
