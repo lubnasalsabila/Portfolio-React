@@ -38,22 +38,7 @@
             },
 
             "items": [
-                {
-                    "value": "+6285773867561",
-                    "links": [
-                        {"href": "wa.me/085773867561"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-phone",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Phone"},
-                        "in": {"title": "Telepon"}
-                    }
-                },
-
+                
                 {
                     "value": "lubnasalsabilaa@gmail.com",
                     "links": [
