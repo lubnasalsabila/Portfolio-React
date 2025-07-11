@@ -28,6 +28,27 @@
             "items": [
                 {
                     "icon": {
+                        "img": "images/pictures/youth.png"
+                    },
+                    "dates": {
+                        "start": "29/06/2025",
+                        "end": "-"
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1JE2p4ePonPErFF8P8j_Nwf_3Agaszc_Q?usp=sharing" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**YouthRanger**",
+                            "text": "Design Your Click: Understanding UI/UX Design for Beginners"
+                        },
+                        "in": {
+                            "text": "Design Your Click: Mengenal UI/UX Design untuk Pemula"
+                        }
+                    }
+                },
+                {
+                    "icon": {
                         "img": "images/pictures/dicoding.jpeg"
                     },
                     "dates": {
