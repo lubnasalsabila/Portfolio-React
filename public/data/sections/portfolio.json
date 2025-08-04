@@ -249,6 +249,27 @@
                             "tags": ["Figma"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "utilities",
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lubnasalsabila/kupingdj-nuxtjs"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "KupingDj UI Slicing - Freelance Test Project (Nuxt.js)",
+                            "text": "A self-initiated project based on a Figma design, created as part of a freelance selection test. The main focus was converting the UI into pixel-perfect code using Nuxt.js and Tailwind CSS. Developed with a modular component approach and deployed to Vercel. Note: The UI/UX design is not personally owned and was used solely as a reference for development.",
+                            "tags": ["Nuxt JS", "Tailwind css", "Vercel"]
+                        },
+                        "in": {
+                            "title": "KupingDj UI Slicing - Freelance Test Project (Nuxt.js)",
+                            "text": "Proyek mandiri berbasis desain Figma yang bertujuan sebagai tes seleksi freelance. Fokus utama pada konversi UI ke kode secara pixel-perfect menggunakan Nuxt.js dan Tailwind CSS. Dikembangkan dengan pendekatan komponen modular dan di-deploy ke Vercel. Catatan: Desain UI/UX bukan milik pribadi, digunakan hanya sebagai acuan pengembangan.",
+                            "tags": ["Nuxt JS", "Tailwind css", "Vercel"]
+                        }
+                    }
                 }
             ]
         }

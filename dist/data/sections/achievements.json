@@ -31,8 +31,8 @@
                         "img": "images/pictures/youth.png"
                     },
                     "dates": {
-                        "start": "29/06/2025",
-                        "end": "-"
+                        "start": "06/29/2025",
+                        "end": null
                     },
                     "links": [
                         { "string": "see_certification", "href": "https://drive.google.com/drive/folders/1JE2p4ePonPErFF8P8j_Nwf_3Agaszc_Q?usp=sharing" }
@@ -230,4 +230,4 @@
             ]
         }
     ]
-}
+}   
